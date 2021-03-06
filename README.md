@@ -1,10 +1,10 @@
 # REACT-User-Generator
 
-![readme_gen gif]()
+![Image of deployed app](https://github.com/codymjohnson/React-User-Directory/blob/master/src/img/Screenshot%20(49)%20smol.png)
 
 ## Deployed link
 
-[Deployed App]()
+[Deployed App](https://codymjohnson.github.io/React-User-Directory/)
 
 ## Description
 
